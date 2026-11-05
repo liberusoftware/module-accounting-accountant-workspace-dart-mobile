@@ -1,0 +1,14 @@
+name: module_boilerplate_dart_mobile
+description: Liberu Dart · Mobile reusable module foundation.
+version: 0.1.0-dev.1
+publish_to: none
+environment:
+  sdk: ^3.13.7
+  flutter: '>=3.47.9'
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
